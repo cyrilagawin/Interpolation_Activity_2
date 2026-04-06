@@ -30,8 +30,9 @@ You can install all required dependencies at once using pip:
 ```bash
 pip install numpy sympy plotly
 
-<img width="1499" height="545" alt="image" src="https://github.com/user-attachments/assets/998688ba-4ff5-48d7-95f6-29e11b232688" />
-<img width="1490" height="557" alt="image" src="https://github.com/user-attachments/assets/3074c6e7-a300-486d-8bbf-739a0d2d6424" />
-<img width="1486" height="552" alt="image" src="https://github.com/user-attachments/assets/836fe2b6-73d2-4ad5-bb4c-db2baedf12ba" />
 
+<img width="1497" height="818" alt="newton" src="https://github.com/user-attachments/assets/efe4d90f-a2d3-4485-8ca2-49517ceda4f5" />
+
+<img width="1486" height="818" alt="lagrange" src="https://github.com/user-attachments/assets/fad8258e-a7f5-4f6a-9b17-0cb29e23755e" />
+<img width="1486" height="818" alt="spline" src="https://github.com/user-attachments/assets/98bb5ce6-45e9-4f34-8004-bf8c995fdb63" />
 
